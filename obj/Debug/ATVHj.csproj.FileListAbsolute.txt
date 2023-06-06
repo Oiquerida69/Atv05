@@ -1,0 +1,7 @@
+C:\Users\wendell.mcardoso\source\repos\ATVHj\ATVHj\bin\Debug\ATVHj.exe.config
+C:\Users\wendell.mcardoso\source\repos\ATVHj\ATVHj\bin\Debug\ATVHj.exe
+C:\Users\wendell.mcardoso\source\repos\ATVHj\ATVHj\bin\Debug\ATVHj.pdb
+C:\Users\wendell.mcardoso\source\repos\ATVHj\ATVHj\obj\Debug\ATVHj.csproj.AssemblyReference.cache
+C:\Users\wendell.mcardoso\source\repos\ATVHj\ATVHj\obj\Debug\ATVHj.csproj.CoreCompileInputs.cache
+C:\Users\wendell.mcardoso\source\repos\ATVHj\ATVHj\obj\Debug\ATVHj.exe
+C:\Users\wendell.mcardoso\source\repos\ATVHj\ATVHj\obj\Debug\ATVHj.pdb
